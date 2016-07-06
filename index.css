@@ -17,19 +17,19 @@
 }
 
 .u-mt5 {
-  margin-top: 1.5rem !important;
-}
-
-.u-mt6 {
   margin-top: 2rem !important;
 }
 
+.u-mt6 {
+  margin-top: 4rem !important;
+}
+
 .u-mt7 {
-  margin-top: 3rem !important;
+  margin-top: 8rem !important;
 }
 
 .u-mt8 {
-  margin-top: 4rem !important;
+  margin-top: 16rem !important;
 }
 
 /** @define utilities */
@@ -51,19 +51,19 @@
 }
 
 .u-mr5 {
-  margin-right: 1.5rem !important;
-}
-
-.u-mr6 {
   margin-right: 2rem !important;
 }
 
+.u-mr6 {
+  margin-right: 4rem !important;
+}
+
 .u-mr7 {
-  margin-right: 3rem !important;
+  margin-right: 8rem !important;
 }
 
 .u-mr8 {
-  margin-right: 4rem !important;
+  margin-right: 16rem !important;
 }
 
 .u-mrAuto {
@@ -89,19 +89,19 @@
 }
 
 .u-mb5 {
-  margin-bottom: 1.5rem !important;
-}
-
-.u-mb6 {
   margin-bottom: 2rem !important;
 }
 
+.u-mb6 {
+  margin-bottom: 4rem !important;
+}
+
 .u-mb7 {
-  margin-bottom: 3rem !important;
+  margin-bottom: 8rem !important;
 }
 
 .u-mb8 {
-  margin-bottom: 4rem !important;
+  margin-bottom: 16rem !important;
 }
 
 /** @define utilities */
@@ -123,19 +123,19 @@
 }
 
 .u-ml5 {
-  margin-left: 1.5rem !important;
-}
-
-.u-ml6 {
   margin-left: 2rem !important;
 }
 
+.u-ml6 {
+  margin-left: 4rem !important;
+}
+
 .u-ml7 {
-  margin-left: 3rem !important;
+  margin-left: 8rem !important;
 }
 
 .u-ml8 {
-  margin-left: 4rem !important;
+  margin-left: 16rem !important;
 }
 
 .u-mlAuto {
@@ -165,23 +165,23 @@
 }
 
 .u-mh5 {
-  margin-right: 1.5rem !important;
-  margin-left: 1.5rem !important;
-}
-
-.u-mh6 {
   margin-right: 2rem !important;
   margin-left: 2rem !important;
 }
 
+.u-mh6 {
+  margin-right: 4rem !important;
+  margin-left: 4rem !important;
+}
+
 .u-mh7 {
-  margin-right: 3rem !important;
-  margin-left: 3rem !important;
+  margin-right: 8rem !important;
+  margin-left: 8rem !important;
 }
 
 .u-mh8 {
-  margin-right: 4rem !important;
-  margin-left: 4rem !important;
+  margin-right: 16rem !important;
+  margin-left: 16rem !important;
 }
 
 .u-mhAuto {
@@ -212,23 +212,23 @@
 }
 
 .u-mv5 {
-  margin-top: 1.5rem !important;
-  margin-bottom: 1.5rem !important;
-}
-
-.u-mv6 {
   margin-top: 2rem !important;
   margin-bottom: 2rem !important;
 }
 
+.u-mv6 {
+  margin-top: 4rem !important;
+  margin-bottom: 4rem !important;
+}
+
 .u-mv7 {
-  margin-top: 3rem !important;
-  margin-bottom: 3rem !important;
+  margin-top: 8rem !important;
+  margin-bottom: 8rem !important;
 }
 
 .u-mv8 {
-  margin-top: 4rem !important;
-  margin-bottom: 4rem !important;
+  margin-top: 16rem !important;
+  margin-bottom: 16rem !important;
 }
 
 /*# sourceMappingURL=index.css.map */
